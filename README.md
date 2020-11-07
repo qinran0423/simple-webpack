@@ -22,7 +22,7 @@ webpack打包bundle原理分析
       - 借助babel语法转移
     - chunk 包含了依赖关系 - 依赖图谱：对象的格式
 
-#### 无序列表
+
 - 生成bundle文件
   - 依赖图谱
   - webpack启动函数
